@@ -18,20 +18,6 @@
              marginwidth="5" bordercolor="#333333"><frame
   src="main.php" name="page_content" frameborder="0" scrolling="auto"
   marginwidth="0" >
- </frameset>
-    <frame src="right_menu.php" name="right_menu" frameborder="no" scrolling="auto" 
-           noresize="noresize" marginwidth="0" marginheight="0">
-  </frameset>
-  <noframes>
-    <body>
-      <p>System Planowania Zajęć ATS4 służący do układania planów, publikacji w Internecie oraz zarządzania zasobami uczelni wyższych oraz szkół.
-      <br /><br />
-        Twoja przeglądarka nie obsługuje ramek.<br/>
-        Aby obejrzeć tę stronę, musisz mieć zainstalowaną przeglądarkę obsługującą ramki.<br/>
-        Na przykład: Mozilla Firefox, Internet Explorer 7 lub Opera.
-      </p>
-    </body>
-  </noframes>
-</frameset>  
-</html>
+
+ 
 
